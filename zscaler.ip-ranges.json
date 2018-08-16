@@ -1,0 +1,588 @@
+{
+  "syncToken": "1534413894",
+  "createDate": "2018-08-16T10:00:00Z",
+  "source": "https://ips.zscloud.net/cenr",
+  "prefixes": [
+    {
+      "ip_prefix": "185.46.212.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Amsterdam",
+        "proxy_hostname": "ams2.sme.zscloud.net",
+        "gre_virtual_ip": "185.46.212.36",
+        "vpn_hostname": "amsterdam2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.88.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Brussels",
+        "proxy_hostname": "bru1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.88.36",
+        "vpn_hostname": "bru1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.64.0/24",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Copenhagen",
+        "proxy_hostname": "cph1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.64.36",
+        "vpn_hostname": "cph1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.72.0/22",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Frankfurt IV",
+        "proxy_hostname": "fra4.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.72.36",
+        "vpn_hostname": "fra4-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.80.0/22",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "London III",
+        "proxy_hostname": "lon3.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.80.36",
+        "vpn_hostname": "lon3-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "89.167.129.0/24",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Madrid",
+        "proxy_hostname": "mad2.sme.zscloud.net",
+        "gre_virtual_ip": "89.167.129.36",
+        "vpn_hostname": "madrid2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.86.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Milan II",
+        "proxy_hostname": "mil2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.86.36",
+        "vpn_hostname": "mil2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.66.0/24",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Moscow III",
+        "proxy_hostname": "mow2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.66.36",
+        "vpn_hostname": "mow2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "213.52.102.0/24",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Oslo II",
+        "proxy_hostname": "osl2.sme.zscloud.net",
+        "gre_virtual_ip": "213.52.102.14",
+        "vpn_hostname": "osl2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.76.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Paris II",
+        "proxy_hostname": "par2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.76.36",
+        "vpn_hostname": "par2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.68.0/24",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Stockholm",
+        "proxy_hostname": "sto2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.68.36",
+        "vpn_hostname": "sto2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "94.188.131.0/25",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Tel Aviv",
+        "proxy_hostname": "tlv1.sme.zscloud.net",
+        "gre_virtual_ip": "94.188.131.32",
+        "vpn_hostname": "tlv1-vpn.zscloud.net",
+        "notes": "Not in Gateway"
+      }
+    },
+    {
+      "ip_prefix": "165.225.84.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Warsaw",
+        "proxy_hostname": "waw1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.84.36",
+        "vpn_hostname": "waw1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "185.46.214.0/23",
+      "region": "europe",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Zurich",
+        "proxy_hostname": "zrh1.sme.zscloud.net",
+        "gre_virtual_ip": "185.46.214.36",
+        "vpn_hostname": "zrh1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+
+    {
+      "ip_prefix": "104.129.206.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Atlanta II",
+        "proxy_hostname": "atl2.sme.zscloud.net",
+        "gre_virtual_ip": "104.129.206.36",
+        "vpn_hostname": "atl2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.0.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Chicago",
+        "proxy_hostname": "chi1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.0.36",
+        "vpn_hostname": "chi1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.34.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Dallas I",
+        "proxy_hostname": "dfw1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.34.36",
+        "vpn_hostname": "dfw1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "104.129.200.0/24",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Denver",
+        "proxy_hostname": "den2.sme.zscloud.net",
+        "gre_virtual_ip": "104.129.200.36",
+        "vpn_hostname": "den2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "104.129.198.0/24",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Los Angeles",
+        "proxy_hostname": "qla1.sme.zscloud.net",
+        "gre_virtual_ip": "104.129.198.36",
+        "vpn_hostname": "qla1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.32.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Miami II",
+        "proxy_hostname": "mia2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.32.36",
+        "vpn_hostname": "mia2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "199.168.151.0/24",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "New York II",
+        "proxy_hostname": "nyc2.sme.zscloud.net",
+        "gre_virtual_ip": "199.168.151.7",
+        "vpn_hostname": "",
+        "notes": "DNP"
+      }
+    },
+    {
+      "ip_prefix": "165.225.38.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "New York III",
+        "proxy_hostname": "nyc3.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.39.26",
+        "vpn_hostname": "nyc3-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "104.129.192.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "San Francisco IV",
+        "proxy_hostname": "sjc4.sme.zscloud.net",
+        "gre_virtual_ip": "104.129.192.36",
+        "vpn_hostname": "sjc4-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.50.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Seattle",
+        "proxy_hostname": "sea1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.50.17",
+        "vpn_hostname": "sea1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.36.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Toronto II",
+        "proxy_hostname": "yto2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.36.36",
+        "vpn_hostname": "yto2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "104.129.194.0/23",
+      "region": "usa-canada",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Washington DC",
+        "proxy_hostname": "was1.sme.zscloud.net",
+        "gre_virtual_ip": "104.129.194.36",
+        "vpn_hostname": "was1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "196.23.154.96/27",
+      "region": "africa",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Capetown",
+        "proxy_hostname": "cpt1.sme.zscloud.net",
+        "gre_virtual_ip": "196.23.154.106",
+        "vpn_hostname": "capetown1-vpn.zscloud.net",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "196.23.147.96/27",
+      "region": "africa",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Johannesburg",
+        "proxy_hostname": "jnb1.sme.zscloud.net",
+        "gre_virtual_ip": "196.23.147.106",
+        "vpn_hostname": "johannesburg1-vpn.zscloud.net",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "197.156.241.224/27",
+      "region": "africa",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Lagos",
+        "proxy_hostname": "lagos1.sme.zscloud.net",
+        "gre_virtual_ip": "197.156.241.250",
+        "vpn_hostname": "",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "165.225.104.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Chennai",
+        "proxy_hostname": "maa1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.104.36",
+        "vpn_hostname": "maa1-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.96.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Hong Kong II",
+        "proxy_hostname": "hkg2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.96.36",
+        "vpn_hostname": "hkg2-vpn.zscloud.net",
+        "notes": "DNP"
+      }
+    },
+    {
+      "ip_prefix": "165.225.116.0/23",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Hong Kong III",
+        "proxy_hostname": "hkg3.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.116.26",
+        "vpn_hostname": "hkg3-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.98.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Melbourne",
+        "proxy_hostname": "mel1.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.98.36",
+        "vpn_hostname": "mel1-vpn.zscloud.net",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "165.225.106.0/23",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Mumbai II",
+        "proxy_hostname": "bom4.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.106.36",
+        "vpn_hostname": "bom4-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "58.220.95.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Shanghai",
+        "proxy_hostname": "sha1.sme.zscloud.net",
+        "gre_virtual_ip": "58.220.95.14",
+        "vpn_hostname": "sha1-vpn.zscloud.net",
+        "notes": "RS, Not in Gateway"
+      }
+    },
+    {
+      "ip_prefix": "42.99.164.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Singapore",
+        "proxy_hostname": "sin2.sme.zscloud.net",
+        "gre_virtual_ip": "42.99.164.36",
+        "vpn_hostname": "singapore2-vpn.zscloud.net",
+        "notes": "DNP"
+      }
+    },
+    {
+      "ip_prefix": "165.225.112.0/23",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Singapore IV",
+        "proxy_hostname": "sin4.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.112.26",
+        "vpn_hostname": "sin4-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "175.45.116.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Sydney",
+        "proxy_hostname": "syd2.sme.zscloud.net",
+        "gre_virtual_ip": "175.45.116.36",
+        "vpn_hostname": "sydney2-vpn.zscloud.net",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "165.225.114.0/23",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Sydney III",
+        "proxy_hostname": "syd3.zscloud.net",
+        "gre_virtual_ip": "165.225.114.26",
+        "vpn_hostname": "syd3-vpn.zscloud.net",
+        "notes": "NRU"
+      }
+    },
+    {
+      "ip_prefix": "165.225.102.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Taipei",
+        "proxy_hostname": "tpe2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.102.36",
+        "vpn_hostname": "tpe2-vpn.zscloud.net",
+        "notes": "Not in Gateway"
+      }
+    },
+    {
+      "ip_prefix": "221.122.91.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Tianjin",
+        "proxy_hostname": "tsn1.sme.zscloud.net",
+        "gre_virtual_ip": "221.122.91.36",
+        "vpn_hostname": "tsn1-vpn.zscloud.net",
+        "notes": "RS, Not in Gateway"
+      }
+    },
+    {
+      "ip_prefix": "165.225.100.0/24",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Tokyo II",
+        "proxy_hostname": "tyo2.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.100.36",
+        "vpn_hostname": "tyo2-vpn.zscloud.net",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.110.0/23",
+      "region": "asia",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Tokyo IV",
+        "proxy_hostname": "tyo4.sme.zscloud.net",
+        "gre_virtual_ip": "165.225.110.26",
+        "vpn_hostname": "tyo4-vpn.zscloud.net",
+        "notes": "NRU"
+      }
+    },
+    {
+      "ip_prefix": "64.215.22.0/24",
+      "region": "latin-america",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Sao Paulo",
+        "proxy_hostname": "sao2.sme.zscloud.net",
+        "gre_virtual_ip": "64.215.22.36",
+        "vpn_hostname": "saopaulo2-vpn.zscloud.net",
+        "notes": "RS"
+      }
+    },
+    {
+      "ip_prefix": "185.46.212.0/22",
+      "region": "upcoming",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Upcoming DC I",
+        "proxy_hostname": "",
+        "gre_virtual_ip": "",
+        "vpn_hostname": "",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "104.129.192.0/20",
+      "region": "upcoming",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Upcoming DC II",
+        "proxy_hostname": "",
+        "gre_virtual_ip": "",
+        "vpn_hostname": "",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.0.0/17",
+      "region": "upcoming",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Upcoming DC III",
+        "proxy_hostname": "",
+        "gre_virtual_ip": "",
+        "vpn_hostname": "",
+        "notes": ""
+      }
+    },
+    {
+      "ip_prefix": "165.225.192.0/18",
+      "region": "upcoming",
+      "service": "ZSCALER",
+      "meta": {
+        "location": "Upcoming DC IV",
+        "proxy_hostname": "",
+        "gre_virtual_ip": "",
+        "vpn_hostname": "",
+        "notes": ""
+      }
+    }
+  ],
+  "zen-ip-addresses": [
+    "185.46.212.88","185.46.212.89","185.46.212.90","185.46.212.91",
+    "185.46.212.92","185.46.212.93","185.46.212.97","185.46.212.98"
+  ]
+}
