@@ -2,7 +2,7 @@
   "syncToken": "1534413894",
   "createDate": "2018-08-16T10:00:00Z",
   "source": "https://ips.zscloud.net/cenr",
-  "updateUrl: "https://raw.githubusercontent.com/BlaM/ip-ranges/master/zscaler.ip-ranges.json",
+  "updateUrl": "https://raw.githubusercontent.com/BlaM/ip-ranges/master/zscaler.ip-ranges.json",
   "prefixes": [
     {
       "ip_prefix": "185.46.212.0/23",
